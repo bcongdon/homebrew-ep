@@ -1,8 +1,8 @@
 class Ep < Formula
   desc "⛏ A CLI Emoji Picker"
   homepage "https://github.com/bcongdon/ep"
-  url "https://github.com/bcongdon/ep/archive/0.1.0.tar.gz"
-  sha256 "90d9b14ec07861a3479333480af0e474aaa8d6c32ae9fff7453e38f37bc2034c"
+  url "https://github.com/bcongdon/ep/archive/0.2.0.tar.gz"
+  sha256 "efdf5b4085e1df71d850b59886cebf04b9768a52c37540c4ee1420411ef3cdf0"
 
   depends_on "go" => :build
 
